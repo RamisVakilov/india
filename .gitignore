@@ -2,3 +2,9 @@
 /src/fonts
 /srs/img
 /node_modules
+/.vscode
+/dist
+/node_modules
+/src/css
+/src/logo
+/src/icons
